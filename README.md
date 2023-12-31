@@ -1,6 +1,4 @@
 
-![Web Developer](https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/333138031_6050157678407252_4419535545890491732_n.jpg?stp=cp6_dst-jpg_p720x720&_nc_cat=106&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeHlqgubvIEVI_RVlgRsFPgP6u5DoLiIvevq7kOguIi96zK7s5jyo3QPT39LeK1yrlytBUNnGD2TOhfQyWB_7RoT&_nc_ohc=5ijlnRRyR6MAX8cHDO6&_nc_ht=scontent.fdac138-2.fna&oh=00_AfAIWzKMfBcxlRbuNI0zNi-eoQivSavNzpWXbo7GIyqVzA&oe=65970AAF)
-
 
 
 ### Hi there 👋, I am Tanvir Ahmed
