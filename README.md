@@ -1,6 +1,6 @@
 
 
-![Frontend Web Developer](https://i.ibb.co/cxsHXJK/github-banner.png)
+![Frontend Web Developer](https://i.ibb.co/mz4Y1Ck/1641996124110.jpg)
 
 #### Frontend Web Developer
 
