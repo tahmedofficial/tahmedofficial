@@ -6,13 +6,13 @@
 
 I'm Tanvir Ahmed, a passionate web developer proficient in HTML, CSS, Tailwind CSS, JavaScript, and React. With a strong foundation in front-end technologies, I love creating responsive and visually appealing web applications.
 
-HTML/CSS: Proficient in crafting clean and semantic HTML structures and styling them with CSS to create beautiful user interfaces.
+- HTML/CSS: Proficient in crafting clean and semantic HTML structures and styling them with CSS to create beautiful user interfaces.
 
-Tailwind CSS: Experienced in utilizing Tailwind CSS to rapidly build custom designs and streamline development workflow.
+- Tailwind CSS: Experienced in utilizing Tailwind CSS to rapidly build custom designs and streamline development workflow.
 
-JavaScript: Skilled in writing efficient JavaScript code to add interactivity and dynamic functionality to web applications.
+- JavaScript: Skilled in writing efficient JavaScript code to add interactivity and dynamic functionality to web applications.
 
-React: Proficient in developing single-page and multi-page applications with React, utilizing React Router for seamless navigation between different views/pages.
+- React: Proficient in developing single-page and multi-page applications with React, utilizing React Router for seamless navigation between different views/pages.
 
 Skills: HTML | CSS | JAVASCRIPT | REACT 
 
