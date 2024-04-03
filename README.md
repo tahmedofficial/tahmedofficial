@@ -16,7 +16,7 @@ I'm Tanvir Ahmed, a passionate web developer proficient in HTML, CSS, Tailwind C
 
 #### Skills: HTML | CSS | JAVASCRIPT | REACT 
 
-(➡️) => I’m currently learning MERN Stack 
+#### - I’m currently learning MERN Stack 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tahmedofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tahmedofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/taahmedofficial)  
