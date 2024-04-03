@@ -14,7 +14,7 @@ I'm Tanvir Ahmed, a passionate web developer proficient in HTML, CSS, Tailwind C
 
 - React: Proficient in developing single-page and multi-page applications with React, utilizing React Router for seamless navigation between different views/pages.
 
-##### Skills: HTML | CSS | JAVASCRIPT | REACT 
+#### Skills: HTML | CSS | JAVASCRIPT | REACT 
 
 (➡️) => I’m currently learning MERN Stack 
 
