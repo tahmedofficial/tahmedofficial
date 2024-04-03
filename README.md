@@ -2,7 +2,7 @@
 
 ![Frontend Web Developer](https://i.ibb.co/4WjkS1Q/65893b97-1723-48d6-8ef9-f48c84518e08.png)
 
-## Frontend Web Developer
+# Frontend Web Developer
 
 I'm Tanvir Ahmed, a passionate web developer proficient in HTML, CSS, Tailwind CSS, JavaScript, and React. With a strong foundation in front-end technologies, I love creating responsive and visually appealing web applications.
 
@@ -14,7 +14,7 @@ I'm Tanvir Ahmed, a passionate web developer proficient in HTML, CSS, Tailwind C
 
 - React: Proficient in developing single-page and multi-page applications with React, utilizing React Router for seamless navigation between different views/pages.
 
-Skills: HTML | CSS | JAVASCRIPT | REACT 
+## Skills: -HTML -CSS -JAVASCRIPT -REACT 
 
 (➡️) => I’m currently learning MERN Stack 
 
