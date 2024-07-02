@@ -12,7 +12,7 @@ I'm Tanvir Ahmed, a passionate web developer proficient in HTML, CSS, Tailwind C
 
 - JavaScript: Skilled in writing efficient JavaScript code to add interactivity and dynamic functionality to web applications.
 
-- React: Proficient in developing single-page and multi-page applications with React, utilizing React Router for seamless navigation between different views/pages.
+- React: Proficient in developing single-page applications with React, utilizing React Router for seamless navigation between different views/pages.
 
 
 - 🌱 I’m currently learning MERN Stack 
@@ -23,7 +23,7 @@ I'm Tanvir Ahmed, a passionate web developer proficient in HTML, CSS, Tailwind C
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmedofficial&show_icons=true" alt="tahmedofficial's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmedofficial&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmedofficial&show_icons=true" alt="tahmedofficial's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmedofficial" /></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tahmedofficial&show_icons=true) 
 
