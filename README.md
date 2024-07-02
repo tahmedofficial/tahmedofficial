@@ -1,6 +1,6 @@
 
 
-![Frontend Web Developer](https://i.ibb.co/4WjkS1Q/65893b97-1723-48d6-8ef9-f48c84518e08.png)
+![Frontend Web Developer](https://media.licdn.com/dms/image/D5616AQEaqiQh-Jgdsg/profile-displaybackgroundimage-shrink_350_1400/0/1711306391169?e=1725494400&v=beta&t=3edw73s2qlLDG3ThzkWv0yylZVm5T_CRYMYudGb62Ug)
 
 ## Frontend Web Developer
 
