@@ -23,15 +23,22 @@ I'm Tanvir Ahmed, a passionate web developer proficient in HTML, CSS, Tailwind C
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmedofficial&show_icons=true" alt="tahmedofficial's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmedofficial" /></a>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tahmedofficial&show_icons=true) 
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=tahmedofficial)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmedofficial)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">Languages-Frameworks-Tools</h2>
+<br>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,firebase,github,html,css,tailwind"><br>
+    <img src="https://skillicons.dev/icons?i=firebase,github,html,css,tailwind">
+  </a>
+</div>
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/tahmedofficial/contributions?format=svg&private=false) 
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmedofficial&show_icons=true" alt="tahmedofficial's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmedofficial" /></a>
+
+
+
 
 
   
