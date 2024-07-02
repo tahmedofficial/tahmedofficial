@@ -27,7 +27,7 @@ I'm Tanvir Ahmed, a passionate web developer proficient in HTML, CSS, Tailwind C
 ### Languages-Frameworks-Tools
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,firebase,github,html,css,tailwind"><
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,firebase,github,html,css,tailwind">
   </a>
 </div>
 
