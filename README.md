@@ -2,7 +2,7 @@
 
 # Tanvir Ahmed MERN Stack Web Developer
 
-Hi! I'm [Your Name], a passionate **MERN Stack Developer** with expertise in **Next.js, TypeScript, JavaScript, React, Node.js, Express.js, MongoDB, and Tailwind CSS**. I love building scalable web applications, optimizing performance, and crafting seamless user experiences.
+Hi! I'm **Tanvir Ahmed**, a passionate **MERN Stack Developer** with expertise in **Next.js, TypeScript, JavaScript, React, Node.js, Express.js, MongoDB, and Tailwind CSS**. I love building scalable web applications, optimizing performance, and crafting seamless user experiences.
 
 ## 🛠️ Tech Stack
 - **Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS  
@@ -11,7 +11,7 @@ Hi! I'm [Your Name], a passionate **MERN Stack Developer** with expertise in **N
 - **Tools & Platforms:** Git, GitHub, Vercel, Firebase
 - **Currently learning Next.js**
 
-## 🌟 Projects
+### 🌟 Projects
 Here are some of my featured projects:
 1. **Deores** - Description (Tech used: React.js, Tailwind, Node.js, Express.js, MongoDB, Firebase.)  
    🔗 [Live Demo](https://deores-mart.firebaseapp.com/) | 📂 [Repo](https://github.com/tahmedofficial/deores-mart-client)  
@@ -32,10 +32,10 @@ Here are some of my featured projects:
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,javascript,typescript,firebase,github,html,css,tailwind,figma,vscode">
 </div>
 
-## Streak Stats
+### Streak Stats
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=tahmedofficial)
 
-## Statistics and most used languages
+### Statistics and most used languages
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmedofficial&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="tahmedofficial's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmedofficial&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
