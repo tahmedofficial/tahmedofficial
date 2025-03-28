@@ -2,21 +2,24 @@
 
 # Tanvir Ahmed MERN Stack Web Developer
 
-Hi! I'm Tanvir Ahmed, a passionate MERN Stack Developer with expertise in Next.js, TypeScript, JavaScript, React, Node.js, Express.js, MongoDB, and Tailwind CSS. I love building scalable web applications, optimizing performance, and crafting seamless user experiences.
+Hi! I'm [Your Name], a passionate **MERN Stack Developer** with expertise in **Next.js, TypeScript, JavaScript, React, Node.js, Express.js, MongoDB, and Tailwind CSS**. I love building scalable web applications, optimizing performance, and crafting seamless user experiences.
 
-## Tech Stack
-  - Frontend: <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,tailwind">
-<div>
-  ## Frontend: <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,tailwind">
-</div>
+## 🛠️ Tech Stack
+- **Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Tools & Platforms:** Git, GitHub, Vercel, Firebase
+- **Currently learning Next.js**
 
-- React: Proficient in developing single-page applications with React, utilizing React Router for seamless navigation between different views/pages.
+## 🌟 Projects
+Here are some of my featured projects:
+1. **Deores** - Description (Tech used: React.js, Tailwind, Node.js, Express.js, MongoDB, Firebase.)  
+   🔗 [Live Demo](#) | 📂 [Repo](#)  
 
+2. **[Project Name 2]** - Description (Tech used: React, Express.js, etc.)  
+   🔗 [Live Demo](#) | 📂 [Repo](#)
 
-- 🌱 I’m currently learning Next Js
-
-
-### Social Media
+### My Social Media
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tahmedofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tahmedofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/taahmedofficial)  
 
 
