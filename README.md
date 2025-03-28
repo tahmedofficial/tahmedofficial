@@ -1,7 +1,4 @@
-
-
-![Frontend Web Developer](https://media.licdn.com/dms/image/D5616AQEaqiQh-Jgdsg/profile-displaybackgroundimage-shrink_350_1400/0/1711306391169?e=1725494400&v=beta&t=3edw73s2qlLDG3ThzkWv0yylZVm5T_CRYMYudGb62Ug)
-![Frontend Web Developer](https://raw.githubusercontent.com/tahmedofficial/deores-mart-client/refs/heads/main/src/assets/images/menClothing.png)
+![Frontend Web Developer](https://raw.githubusercontent.com/tahmedofficial/portfolio-images/refs/heads/main/github-banner.png)
 
 ## Frontend Web Developer
 
