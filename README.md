@@ -1,4 +1,4 @@
-![Frontend Web Developer](https://raw.githubusercontent.com/tahmedofficial/portfolio-images/refs/heads/main/github-banner.png)
+![Frontend Web Developer](https://raw.githubusercontent.com/tahmedofficial/portfolio-images/refs/heads/main/github-banner-two.png)
 
 ## Frontend Web Developer
 
@@ -26,7 +26,7 @@ I'm Tanvir Ahmed, a passionate web developer proficient in HTML, CSS, Tailwind C
 ### Languages-Frameworks-Tools
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,javascript,typescript,firebase,github,html,css,tailwind">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,javascript,typescript,firebase,github,html,css,tailwind,figma,vscode">
   </a>
 </div>
 
