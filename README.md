@@ -39,9 +39,6 @@ Here are some of my featured projects:
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmedofficial&show_icons=true&locale=en&hide_border=true" alt="tahmedofficial" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmedofficial&show_icons=true&locale=en&layout=compact&hide_border=true" alt="tahmedofficial" /></a> |
 | ------------- | ------------- |
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmedofficial&show_icons=true&locale=en&hide_border=true" alt="tahmedofficial" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmedofficial&show_icons=true&locale=en&layout=compact&hide_border=true" alt="tahmedofficial" /></a>
-
 
 
 
