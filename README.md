@@ -32,10 +32,10 @@ Here are some of my featured projects:
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,javascript,typescript,firebase,github,html,css,tailwind,figma,vscode">
 </div>
 
-### Stats
+## Streak Stats
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=tahmedofficial)
 
-### Statistics and most used languages
+## Statistics and most used languages
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmedofficial&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="tahmedofficial's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmedofficial&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
