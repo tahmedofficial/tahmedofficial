@@ -11,7 +11,7 @@ Hi! I'm **Tanvir Ahmed**, a passionate **MERN Stack Developer** with expertise i
 - **Tools & Platforms:** Git, GitHub, Vercel, Firebase
 - **Currently learning Next.js**
 
-### 🌟 Projects
+## 🌟 Projects
 Here are some of my featured projects:
 1. **Deores** - Description (Tech used: React.js, Tailwind, Node.js, Express.js, MongoDB, Firebase.)  
    🔗 [Live Demo](https://deores-mart.firebaseapp.com/) | 📂 [Repo](https://github.com/tahmedofficial/deores-mart-client)  
@@ -19,7 +19,7 @@ Here are some of my featured projects:
 2. **BUFT-Merchandisers** - Description (Tech used: Next.js)  
    🔗 [Live Demo](https://buft-merchandisers.vercel.app/) | 📂 [Repo](https://github.com/tahmedofficial/BUFT-Merchandisers)
 
-## 📫 Connect With Me
+### Connect With Me
 - 🌐 Portfolio: [Your Portfolio Link]
 - 📧 Email: [tanvirofcuo@gmail.com]
 - ☎️ Phone: [+880 1600993826]
