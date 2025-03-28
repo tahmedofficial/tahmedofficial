@@ -1,6 +1,6 @@
 ![Frontend Web Developer](https://raw.githubusercontent.com/tahmedofficial/portfolio-images/refs/heads/main/github-banner-two.png)
 
-# Tanvir Ahmed MERN Stack Web Developer
+<h1 align="center">Tanvir Ahmed MERN Stack Web Developer</h1>
 
 Hi! I'm **Tanvir Ahmed**, a passionate **MERN Stack Developer** with expertise in **Next.js, TypeScript, JavaScript, React, Node.js, Express.js, MongoDB, and Tailwind CSS**. I love building scalable web applications, optimizing performance, and crafting seamless user experiences.
 
@@ -44,15 +44,10 @@ Here are some of my featured projects:
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmedofficial&show_icons=true&locale=en&layout=compact" alt="tahmedofficial" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmedofficial&show_icons=true&locale=en" alt="tahmedofficial" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahmedofficial&" alt="tahmedofficial" /></p>
-
 
 
 
