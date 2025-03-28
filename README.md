@@ -6,7 +6,7 @@ Hi! I'm [Your Name], a passionate **MERN Stack Developer** with expertise in **N
 
 ## 🛠️ Tech Stack
 - **Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
+- **Backend:** Node.js, Express.js, JWT 
 - **Database:** MongoDB  
 - **Tools & Platforms:** Git, GitHub, Vercel, Firebase
 - **Currently learning Next.js**
