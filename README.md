@@ -17,20 +17,14 @@ Here are some of my featured projects:
    🔗 [Live Demo](#) | 📂 [Repo](#)  
 
 2. **[Project Name 2]** - Description (Tech used: React, Express.js, etc.)  
-   🔗 [Live Demo](#) | 📂 [Repo](#)
+   🔗 [Live Demo](https://deores-mart.firebaseapp.com/) | 📂 [Repo](#)
 
 ### My Social Media
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tahmedofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tahmedofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/taahmedofficial)  
 
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-
 ### Languages-Frameworks-Tools
 <div>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,javascript,typescript,firebase,github,html,css,tailwind,figma,vscode">
-  </a>
 </div>
 
 ### Stats
