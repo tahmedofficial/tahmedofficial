@@ -1,14 +1,16 @@
 ![Frontend Web Developer](https://raw.githubusercontent.com/tahmedofficial/portfolio-images/refs/heads/main/github-banner-two.png)
 
-## Frontend Web Developer
+# Tanvir Ahmed MERN Stack Web Developer
 
-I'm Tanvir Ahmed, a passionate web developer proficient in HTML, CSS, Tailwind CSS, JavaScript, and React. With a strong foundation in front-end technologies, I love creating responsive and visually appealing web applications.
+Hi! I'm Tanvir Ahmed, a passionate MERN Stack Developer with expertise in Next.js, TypeScript, JavaScript, React, Node.js, Express.js, MongoDB, and Tailwind CSS. I love building scalable web applications, optimizing performance, and crafting seamless user experiences.
 
-- HTML/CSS: Proficient in crafting clean and semantic HTML structures and styling them with CSS to create beautiful user interfaces.
-
-- Tailwind CSS: Experienced in utilizing Tailwind CSS to rapidly build custom designs and streamline development workflow.
-
-- JavaScript: Skilled in writing efficient JavaScript code to add interactivity and dynamic functionality to web applications.
+## Tech Stack
+<div>
+  - Frontend: <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,tailwind">
+</div>
+<div>
+  ## Frontend: <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,tailwind">
+</div>
 
 - React: Proficient in developing single-page applications with React, utilizing React Router for seamless navigation between different views/pages.
 
