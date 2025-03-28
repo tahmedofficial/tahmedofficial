@@ -13,7 +13,7 @@ I'm Tanvir Ahmed, a passionate web developer proficient in HTML, CSS, Tailwind C
 - React: Proficient in developing single-page applications with React, utilizing React Router for seamless navigation between different views/pages.
 
 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning Next Js
 
 
 ### Social Media
@@ -26,7 +26,7 @@ I'm Tanvir Ahmed, a passionate web developer proficient in HTML, CSS, Tailwind C
 ### Languages-Frameworks-Tools
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,firebase,github,html,css,tailwind,typescript">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,javascript,typescript,firebase,github,html,css,tailwind">
   </a>
 </div>
 
