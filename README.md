@@ -14,10 +14,15 @@ Hi! I'm [Your Name], a passionate **MERN Stack Developer** with expertise in **N
 ## 🌟 Projects
 Here are some of my featured projects:
 1. **Deores** - Description (Tech used: React.js, Tailwind, Node.js, Express.js, MongoDB, Firebase.)  
-   🔗 [Live Demo](#) | 📂 [Repo](#)  
+   🔗 [Live Demo](https://deores-mart.firebaseapp.com/) | 📂 [Repo](https://github.com/tahmedofficial/deores-mart-client)  
 
-2. **[Project Name 2]** - Description (Tech used: React, Express.js, etc.)  
-   🔗 [Live Demo](https://deores-mart.firebaseapp.com/) | 📂 [Repo](#)
+2. **BUFT-Merchandisers** - Description (Tech used: Next.js)  
+   🔗 [Live Demo](https://buft-merchandisers.vercel.app/) | 📂 [Repo](https://github.com/tahmedofficial/BUFT-Merchandisers)
+
+## 📫 Connect With Me
+- 🌐 Portfolio: [Your Portfolio Link]
+- 📧 Email: [tanvirofcuo@gmail.com]
+- ☎️ Phone: [+880 1600993826]
 
 ### My Social Media
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tahmedofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tahmedofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/taahmedofficial)  
@@ -36,7 +41,4 @@ Here are some of my featured projects:
 
 
 
-
-
-  
 
