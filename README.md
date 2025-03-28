@@ -33,13 +33,12 @@ Here are some of my featured projects:
 </div>
 
 ### Streak Stats
-![GitHub streak stats](https://streak-stats.demolab.com/?user=tahmedofficial)
+<p><img align="center" src="https://streak-stats.demolab.com/?user=tahmedofficial" alt="tahmedofficial" /></p>
 
 ### Statistics and most used languages
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmedofficial&show_icons=true&locale=en&hide_border=true" alt="tahmedofficial" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmedofficial&show_icons=true&locale=en&layout=compact&hide_border=true" alt="tahmedofficial" /></a> |
 | ------------- | ------------- |
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=tahmedofficial&hide_border=true" alt="tahmedofficial" /></p>
 
 
 
