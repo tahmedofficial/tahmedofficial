@@ -5,9 +5,7 @@
 Hi! I'm Tanvir Ahmed, a passionate MERN Stack Developer with expertise in Next.js, TypeScript, JavaScript, React, Node.js, Express.js, MongoDB, and Tailwind CSS. I love building scalable web applications, optimizing performance, and crafting seamless user experiences.
 
 ## Tech Stack
-<div>
   - Frontend: <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,tailwind">
-</div>
 <div>
   ## Frontend: <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,tailwind">
 </div>
