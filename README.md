@@ -36,14 +36,8 @@ Here are some of my featured projects:
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=tahmedofficial)
 
 ### Statistics and most used languages
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmedofficial&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="tahmedofficial's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmedofficial&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmedofficial&show_icons=true&locale=en&hide_border=true" alt="tahmedofficial" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmedofficial&show_icons=true&locale=en&layout=compact&hide_border=true" alt="tahmedofficial" /></a> |
 | ------------- | ------------- |
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmedofficial&show_icons=true&locale=en&layout=compact" alt="tahmedofficial" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmedofficial&show_icons=true&locale=en" alt="tahmedofficial" /></p>
 
 
 
