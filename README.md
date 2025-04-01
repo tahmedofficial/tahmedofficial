@@ -24,16 +24,20 @@ I am a passionate **MERN Stack Developer** who loves building modern, responsive
 
 ## 🚀 Featured Projects
 Here are some of my featured projects:
-1. **Deores** - Description (Tech used: React.js, Tailwind, Node.js, Express.js, MongoDB, Firebase.)  
+1. **Deores** - An eCommerce platform for clothing brands, featuring Stripe payments, JWT authentication, and a modern UI
+**Tech Stack:** React.js, Tailwind, Node.js, Express.js, MongoDB, Firebase.
    🔗 [Live Demo](https://deores-mart.firebaseapp.com/) | 📂 [Repo](https://github.com/tahmedofficial/deores-mart-client)  
 
-2. **BUFT-Merchandisers** - Description (Tech used: Next.js)  
+3. **BUFT-Merchandisers** - Description
+4. **Tech Stack:** Next.js
    🔗 [Live Demo](https://buft-merchandisers.vercel.app/) | 📂 [Repo](https://github.com/tahmedofficial/BUFT-Merchandisers)
 
 ### Connect With Me
 - 🌐 Portfolio: [Your Portfolio Link]
 - 📧 Email: [tanvirofcuo@gmail.com]
 - ☎️ Phone: [+880 1600993826]
+
+# Let's connect and build amazing things together! 🚀
 
 ### My Social Media
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tahmedofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tahmedofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/taahmedofficial)  
@@ -50,6 +54,6 @@ Here are some of my featured projects:
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmedofficial&show_icons=true&locale=en&hide_border=true" alt="tahmedofficial" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmedofficial&show_icons=true&locale=en&layout=compact&hide_border=true" alt="tahmedofficial" /></a> |
 | ------------- | ------------- |
 
-
+# Let's connect and build amazing things together! 🚀
 
 
