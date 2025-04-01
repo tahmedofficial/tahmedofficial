@@ -29,7 +29,6 @@ An eCommerce platform for clothing brands, featuring Stripe payments, JWT authen
 **Tech Stack:** React.js, Tailwind, Node.js, Express.js, MongoDB, Firebase
 🔗 [Live Demo](https://deores-mart.firebaseapp.com/) | 📂 [Repo](https://github.com/tahmedofficial/deores-mart-client)  
 
----
 ### 2. BUFT-Merchandisers
 My university project\
 **Tech Stack:** Next.js
