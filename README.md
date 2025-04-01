@@ -25,9 +25,9 @@ I am a passionate **MERN Stack Developer** who loves building modern, responsive
 ## 🚀 Featured Projects
 Here are some of my featured projects:
 ### 1.Deores
--- An eCommerce platform for clothing brands, featuring Stripe payments, JWT authentication, and a modern UI
-<p>**Tech Stack:** React.js, Tailwind, Node.js, Express.js, MongoDB, Firebase.</p>
-   🔗 [Live Demo](https://deores-mart.firebaseapp.com/) | 📂 [Repo](https://github.com/tahmedofficial/deores-mart-client)  
+An eCommerce platform for clothing brands, featuring Stripe payments, JWT authentication, and a modern UI
+#### Tech Stack: React.js, Tailwind, Node.js, Express.js, MongoDB, Firebase
+🔗 [Live Demo](https://deores-mart.firebaseapp.com/) | 📂 [Repo](https://github.com/tahmedofficial/deores-mart-client)  
 
 3. **BUFT-Merchandisers** - Description
 4. **Tech Stack:** Next.js
