@@ -6,15 +6,22 @@
 
 ---
 
-
-Hi! I'm **Tanvir Ahmed**, a passionate **MERN Stack Developer** with expertise in **Next.js, TypeScript, JavaScript, React, Node.js, Express.js, MongoDB, and Tailwind CSS**. I love building scalable web applications, optimizing performance, and crafting seamless user experiences.
-
 ## 🛠️ Tech Stack
 - **Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS  
 - **Backend:** Node.js, Express.js, JWT 
 - **Database:** MongoDB  
 - **Tools & Platforms:** Git, GitHub, Vercel, Firebase
 - **Currently learning Next.js**
+
+## 🌟 About Me
+
+I am a passionate **MERN Stack Developer** who loves building modern, responsive, and scalable web applications. With a strong foundation in **React.js, Node.js, Express.js, and MongoDB**, I continuously strive to enhance my skills and stay updated with the latest industry trends.
+
+🔹 Currently improving my **problem-solving skills** and **exploring Next.js**.  
+🔹 Passionate about **building user-friendly applications** and **optimizing performance**.  
+🔹 Open to **collaborations** and **freelance opportunities**.  
+
+---
 
 ## 🌟 Projects
 Here are some of my featured projects:
