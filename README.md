@@ -11,7 +11,6 @@
 - **Backend:** Node.js, Express.js, JWT 
 - **Database:** MongoDB  
 - **Tools & Platforms:** Git, GitHub, Vercel, Firebase
-- **Currently learning Next.js**
 
 ## 🌟 About Me
 
@@ -23,7 +22,7 @@ I am a passionate **MERN Stack Developer** who loves building modern, responsive
 
 ---
 
-## 🌟 Projects
+## 🚀 Featured Projects
 Here are some of my featured projects:
 1. **Deores** - Description (Tech used: React.js, Tailwind, Node.js, Express.js, MongoDB, Firebase.)  
    🔗 [Live Demo](https://deores-mart.firebaseapp.com/) | 📂 [Repo](https://github.com/tahmedofficial/deores-mart-client)  
